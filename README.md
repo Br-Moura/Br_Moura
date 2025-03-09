@@ -1,4 +1,4 @@
-# Olá! Eu sou Br-Moura 👋
+# Olá! Eu sou Breno Moura 👋
 
 ## 🚀 Sobre mim
 Atualmente, trabalho com suporte de TI, auxiliando na resolução de problemas técnicos e garantindo o bom funcionamento dos sistemas. Além disso, dou suporte e realizo melhorias em ferramentas desenvolvidas em Python, focando na automação de processos para otimizar fluxos de trabalho.
@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 
 - 🌱 Atualmente estou aprendendo: **[PYTHON, R, POWER BI]**
 - 💬 Me pergunte sobre: **Automação, Python, Suporte de TI**
-- 📫 Como me encontrar: [Breno5141moura@gmail.com, www.linkedin.com/in/br-moura.]
+- 📫 Como me encontrar: [Breno5141moura@gmail.com, [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](www.linkedin.com/in/br-moura),[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel)](https://seu-portfolio.com)  ]
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,6 +18,6 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 ![Br-Moura GitHub Stats](https://github-readme-stats.vercel.app/api?username=Br-Moura&show_icons=true&theme=radical)
 
 ## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/seu-usuario/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](www.linkedin.com/in/br-moura)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel)](https://seu-portfolio.com)
 
