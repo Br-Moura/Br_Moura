@@ -17,9 +17,13 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 
 ## 💡 Dicas e Insights sobre meu trabalho
 🔹 **Automatização é chave** – Sempre que possível, busco automatizar tarefas repetitivas usando Python para ganhar eficiência e evitar erros manuais.
+
 🔹 **Monitoramento é essencial** – Criar dashboards no Power BI e gerar relatórios automatizados ajuda a tomar decisões mais rápidas e assertivas.
+
 🔹 **Aprendizado contínuo** – A tecnologia está sempre evoluindo, então reservo um tempo para estudar novas ferramentas e melhorar processos internos.
+
 🔹 **Boa comunicação faz a diferença** – No suporte de TI, explicar soluções de forma clara e objetiva evita retrabalho e melhora a experiência do usuário.
+
 🔹 **Organização e documentação** – Manter um código bem comentado e documentado facilita futuras melhorias e colaborações em equipe.
 
 
