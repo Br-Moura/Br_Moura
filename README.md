@@ -5,9 +5,9 @@ Atualmente, trabalho com suporte de TI, auxiliando na resolução de problemas t
 
 Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas habilidades. Tenho desenvolvido diversos projetos dentro da empresa, voltados para eficiência e inovação tecnológica.
 
-- 🌱 Atualmente estou aprendendo: **[tecnologias que está estudando]**
+- 🌱 Atualmente estou aprendendo: **[PYTHON, R, POWER BI]**
 - 💬 Me pergunte sobre: **Automação, Python, Suporte de TI**
-- 📫 Como me encontrar: [email, LinkedIn, etc.]
+- 📫 Como me encontrar: [Breno5141moura@gmail.com, www.linkedin.com/in/br-moura.]
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
