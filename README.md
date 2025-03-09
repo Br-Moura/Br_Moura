@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 
 - 🌱 Atualmente estou aprendendo: **[PYTHON, R, POWER BI]**
 - 💬 Me pergunte sobre: **Automação, Python, Suporte de TI**
-- 📫 Como me encontrar: [ [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Breno5141moura@gmail.com), [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](www.linkedin.com/in/br-moura), [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel)](https://seu-portfolio.com)  ]
+- 📫 Como me encontrar: [ [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Breno5141moura@gmail.com), [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/br-moura), [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel)](https://seu-portfolio.com)  ]
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
