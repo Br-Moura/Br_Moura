@@ -10,11 +10,9 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 - 📫 Como me encontrar: [Breno5141moura@gmail.com, www.linkedin.com/in/br-moura.]
 
 ## 🛠️ Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ## 📊 Estatísticas do GitHub
 ![Br-Moura GitHub Stats](https://github-readme-stats.vercel.app/api?username=Br-Moura&show_icons=true&theme=radical)
@@ -22,3 +20,4 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/seu-usuario/)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel)](https://seu-portfolio.com)
+
