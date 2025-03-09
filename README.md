@@ -14,10 +14,15 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
+
+## 💡 Dicas e Insights sobre meu trabalho
+🔹 **Automatização é chave** – Sempre que possível, busco automatizar tarefas repetitivas usando Python para ganhar eficiência e evitar erros manuais.
+🔹 **Monitoramento é essencial** – Criar dashboards no Power BI e gerar relatórios automatizados ajuda a tomar decisões mais rápidas e assertivas.
+🔹 **Aprendizado contínuo** – A tecnologia está sempre evoluindo, então reservo um tempo para estudar novas ferramentas e melhorar processos internos.
+🔹 **Boa comunicação faz a diferença** – No suporte de TI, explicar soluções de forma clara e objetiva evita retrabalho e melhora a experiência do usuário.
+🔹 **Organização e documentação** – Manter um código bem comentado e documentado facilita futuras melhorias e colaborações em equipe.
+
+
 ## 📊 Estatísticas do GitHub
 ![Br-Moura GitHub Stats](https://github-readme-stats.vercel.app/api?username=Br-Moura&show_icons=true&theme=radical)
-
-## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](www.linkedin.com/in/br-moura)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel)](https://seu-portfolio.com)
 
